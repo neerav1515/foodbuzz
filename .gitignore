@@ -26,7 +26,7 @@
 /app/.pub-cache/
 /app/.pub/
 /app/build/
-
+// nishit bawa
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
